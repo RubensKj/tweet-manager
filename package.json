@@ -1,0 +1,21 @@
+{
+  "name": "tweet-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.ts"
+  },
+  "author": "RubensKj",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mongoose": "^5.7.21",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.17"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  }
+}
