@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/mongoose": "^5.7.21",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.17"
   },
   "devDependencies": {
